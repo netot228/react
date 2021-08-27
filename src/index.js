@@ -16,8 +16,9 @@ import ReactDOM from 'react-dom';
 // );
 
 import Clock from './Clock';
+import Test from './Test';
 
 ReactDOM.render(
-    <Clock />,
+    <Test />,
     document.getElementById('root')
 );
